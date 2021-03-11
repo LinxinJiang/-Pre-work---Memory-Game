@@ -24,7 +24,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ Y ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 
 ## Gif Walkthrough
 
